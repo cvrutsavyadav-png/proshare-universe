@@ -1,0 +1,12 @@
+{
+  "name": "proshare-universe",
+  "version": "1.0.0",
+  "description": "ProShare Universe - Multi-theme streaming & AI tutor platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": ["streaming", "ai-tutor", "education", "themes"],
+  "author": "cvrutsavyadav-png",
+  "license": "MIT"
+}
